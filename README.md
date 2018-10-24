@@ -1,2 +1,2 @@
-# azure_funct
-Azure Function CI/CD automation 
+# my-company-functions
+A sample Azure Function app that complements several videos.
